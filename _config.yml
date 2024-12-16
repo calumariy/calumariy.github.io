@@ -19,7 +19,7 @@ title: Calumari's writeups # the main title
 tagline: A place to store writeups for CTFs and other events # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-My writeups from CTFs and more!
+    My writeups from CTFs and more!
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
