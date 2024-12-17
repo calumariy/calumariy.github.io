@@ -2,6 +2,8 @@
 layout: post
 title: Binary Badresources Writeup
 date: 2024-12-16 16:35 +1100
+categories: [CTF-Writeup, Binary-Badlands]
+tags: [forensics, ctf, htb-ctf]
 ---
 This is a medium forensics challenge from the HTB University CTF 2024.
 
